@@ -1,7 +1,7 @@
 # APP CONVERSOR DE MOEDA
 👨‍🏫CONVERSOR DE MOEDA EM REAIS, DOLARES E EUROS COM EXCHANGE RATE API, ELECTRONJS E BOOTSTRAP.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="IMAGEM.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este aplicativo web permite converter valores entre reais brasileiros (BRL), dólares americanos (USD) e euros (EUR) usando as taxas de câmbio mais recentes fornecidas por uma API externa.
